@@ -1,1 +1,1 @@
-This repository is created for Git practical.
+This file is updated from GitHub.
