@@ -1,1 +1,1 @@
-# Sachi0924
+This repository is created for Git practical.
